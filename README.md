@@ -12,8 +12,8 @@ Inital Page
 
 2.Option 2
 
-  2a.Option 1
+  2a.Option 2a
 
-  2b.Option2
+  2b.Option2b
 
 3.Option 3
