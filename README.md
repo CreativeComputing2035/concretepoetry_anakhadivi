@@ -6,8 +6,13 @@ I started by sketching out the story figuring out how many html pages I needed t
 Below is a condensed version of the sketch I made to layout my story:
 
 Inital Page
+
 1.Option 1
+
 2.Option 2
+
   2a.Option 1
+
   2b.Option2
+
 3.Option 3
